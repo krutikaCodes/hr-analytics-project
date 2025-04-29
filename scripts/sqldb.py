@@ -6,8 +6,8 @@ import matplotlib.pyplot as plt
 #connect to mysql
 conn=mysql.connector.connect(
     host="localhost",
-    user="root",
-    password="root",
+    user="",
+    password="",
     database="hr_analytics"
 )
 
