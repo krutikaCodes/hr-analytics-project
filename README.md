@@ -42,7 +42,7 @@ This project demonstrates strong analytical, technical, and visualization skills
 1. Clone the repository:
 
 ```bash
-git clone https://github.com//hr-analytics-project.git
+git clone https://github.com/krutikaCodes/hr-analytics-project.git
 
 ```
 2. Install the project dependencies:
